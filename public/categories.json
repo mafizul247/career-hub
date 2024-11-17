@@ -1,0 +1,31 @@
+[
+    {
+        "id":1,
+        "logo":"https://img.freepik.com/free-photo/online-payment-security-concept-3d-phone-bill_107791-16722.jpg",
+        "category_name":"Account & Finance",
+        "availability":"300 Jobs Available"
+
+    },
+    {
+        "id":2,
+        "logo":"https://img.freepik.com/premium-photo/handdrawn-elements-innovation-idea-generation-with-word-creative-blue-background-symbolizing-creativity_670147-110622.jpg",
+        "category_name":"Creative Design",
+        "availability":"100+ Jobs Available"
+
+    },
+    {
+        "id":3,
+        "logo":"https://img.freepik.com/free-photo/graph-growth-development-improvement-profit-success-concept_53876-124000.jpg",
+        "category_name":"Marketing & Sales",
+        "availability":"150 Jobs Available"
+
+    },
+    {
+        "id":4,
+        "logo":"https://img.freepik.com/free-photo/businessmen-barrier_1156-316.jpg",
+        "category_name":"Engineering Job",
+        "availability":"224 Jobs Available"
+
+    }
+
+]

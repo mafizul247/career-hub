@@ -1,0 +1,17 @@
+:root {
+  background-color: #fff;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-hub {
+  padding: 10px 20px;
+  border-radius: 8px;
+  color: #ffffff;
+  cursor: pointer;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(90deg, rgb(67, 61, 184) 18%, rgb(57, 32, 170) 37%, rgb(113, 80, 233) 100%);
+}
+

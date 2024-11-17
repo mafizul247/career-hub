@@ -1,0 +1,7 @@
+
+.banner-image{
+    background-image: url('./../../assets/images/bg1.png'), url('./../../assets/images/bg2.png');
+    background-position: left bottom, top right;
+    background-repeat: no-repeat;
+    /* background-size: contain, contain; */
+}
